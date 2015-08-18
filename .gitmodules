@@ -1,3 +1,6 @@
 [submodule "slick"]
 	path = slick
 	url = https://github.com/slick/slick.git
+[submodule "build"]
+	path = build
+	url = https://github.com/caarlos0/shell-ci-build.git
